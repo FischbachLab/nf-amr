@@ -22,7 +22,7 @@ aws batch submit-job \
     --job-definition nextflow-production \
     --container-overrides command=fischbachLab/nf-amr,\
 "--project","00_TEST",\
-"--prefix","20230822",\
+"--prefix","20250312",\
 "--seedfile","s3://nextflow-pipelines/nf-amr/data/sample_seedfile.csv"
 ```
 
