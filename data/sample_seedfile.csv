@@ -1,5 +1,5 @@
 sample_name,fasta_file
-SH0002532-00280,s3://genomics-workflow-core/Results/HybridAssembly/MITI-MCB/SH0002532-00280/20230505/UNICYCLER/assembly.fasta
-GCA-022776465-1-ASM2277646v1-genomic,s3://genome-mining/human_pathogens/20230822/genomes/GCA_022776465.1/GCA_022776465.1_ASM2277646v1_genomic.fna
-MGYG000060050,s3://genome-mining/UHGG/Isolates/20230822/MGYG000060050.fna
-MGYG000040090,s3://genome-mining/UHGG/Isolates/20230822/MGYG000040090.fna
+GCF_001546855.1,s3://genome-mining/UHGG/Isolates/20250305/genomes/GCF_001546855.1_ASM154685v1_genomic.fna
+GCF_000807675.2,s3://genome-mining/UHGG/Isolates/20250305/genomes/GCF_000807675.2_ASM80767v2_genomic.fna
+MGYG000288984,s3://genome-mining/UHGG/Isolates/20250305/genomes/MGYG000288984.fna
+MGYG000289112,s3://genome-mining/UHGG/Isolates/20250305/genomes/MGYG000289112.fna

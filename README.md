@@ -1,5 +1,16 @@
 # NF-AMR
 
+## Local testing
+
+Update the nextflow config to use the local profile.
+
+```bash
+nextflow run . \
+    --profile local \
+    -stub-run \
+    --seedfile data/sample_seedfile.csv
+```
+
 ## Description
 
 A Nextflow script that will run AMRFinderPlus on fasta files on S3 and databases available on a shared filesystem (EFS).
